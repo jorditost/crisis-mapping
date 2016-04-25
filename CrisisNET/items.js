@@ -1,4 +1,3 @@
-// This example loads everything related to Syria from the CrisisNET API
 // More info: http://api.crisis.net/ | https://github.com/ushahidi/crisisnet
 
 var config = require('./../config');
